@@ -1,0 +1,26 @@
+.nave1 {
+  background-color: greenyellow;
+  display: flex;
+  justify-content: space-between;
+}
+.nave1 ul {
+  display: flex;
+  padding: 10px;
+  text-decoration: none;
+}
+.nave1 ul li {
+  background-color: honeydew;
+  text-decoration: none;
+  padding: 10px;
+  list-style: none;
+}
+.nave1 ul li a {
+  text-decoration: none;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+img {
+  height: 80px;
+  padding: 4px;
+}

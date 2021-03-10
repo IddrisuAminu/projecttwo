@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.container form {
+  background-color: #55488d;
+  height: 80px;
+  width: 400px;
+  display: flex;
+  align-items: center;
+}
+.container form input {
+  padding: 15px;
+  width: 80%;
+}
+.container form button {
+  padding: 15px;
+  background-color: green;
+  color: white;
+  padding: 15px;
+}
+.container #subcontainer {
+  border: 2px solid green;
+  width: 400px;
+  margin: 10px;
+}
